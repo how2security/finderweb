@@ -28,7 +28,7 @@ O reconhecimento ativo envolve uma sondagem direta a sistemas do alvo, com o obj
 	 ################################################################################
 	 
 	 --2016-10-26 02:08:28--  http://www.xpto.com.br/
-	 Resolving www.xpto.com.br (www.xpto.com.br)... 200.221.64.49, 200.X.X.20, 2804:49c:3103:405:ffff:ffff:ffff:3
+	 Resolving www.xpto.com.br (www.xpto.com.br)... 200.X.X.49, 200.X.X.20, 2804:49c:3103:405:ffff:ffff:ffff:3
 	 Connecting to www.xpto.com.br (www.xpto.com.br)|200.X.X.49|:80... connected.
 	 HTTP request sent, awaiting response... 200 OK
 	 Length: 20018 (20K) [text/html]
